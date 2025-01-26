@@ -1,4 +1,3 @@
-![Black Clean and Minimalist Project Overview Docs Banner|690x207](upload://z9ezKF1U1fF0TCavzQlZl1Ki86x.jpeg)
 
 *****MCDONALD'S*****
 
@@ -10,11 +9,6 @@
 * [X] OX_TARGET
 * [X] OX_INVENTORY
 * [X] OX_LIB
-
-# **Download:**
-
-* GITHUB: [GitHub - Jakubcze053/jkb_boatrental: [ESX] Boat Rental Script](https://github.com/Jakubcze053/jkb_boatrental)
-
 
 ***THIS RESOURCE IS FREE***
 
